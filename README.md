@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://djallil05.github.io/Product-preview-card-component/#))
+- Live Site URL: [live site URL here](https://djallil05.github.io/Product-preview-card-component/#)
 
 ## My process
 
