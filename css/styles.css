@@ -1,0 +1,114 @@
+body {
+  background-color: #008B8B;
+  background-color: hsl(158, 36%, 37%);
+  text-align: center;
+  margin: 0;
+  width: 1440px;
+}
+
+.outer-square {
+  margin: 100px 50px;
+  background-color: #FFFFED;
+  background-color: hsl(30, 38%, 92%);
+  box-shadow: rgba(100, 100, 111, 0.2) 0 7px 29px 0;
+  padding: 100px 60px;
+}
+
+.inner-square {
+  background-color: White;
+  width: 50%;
+  margin: auto;
+  border-radius: 5px;
+  position: relative;
+}
+
+.perfume {
+  border-radius: 5px;
+  height: 100%;
+  width: 50%;
+  position: absolute;
+  right: 305px;
+}
+
+.text {
+  text-align: left;
+  width: 30%;
+  margin: auto 0 auto 325px;
+  padding: 20px 0;
+}
+
+h3 {
+  color: black;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: black;
+  color: hsl(212, 21%, 14%);
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+}
+
+.description {
+  color: black;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 2;
+}
+
+.current-price, .previous-price {
+  font-family: 'Fraunces', serif;
+}
+
+.current-price {
+  font-size: 30px;
+  font-weight: bold;
+  color: grey;
+  color: hsl(158, 36%, 37%);
+}
+
+.previous-price {
+  color: black;
+  color: hsl(228, 12%, 48%);
+  margin-left: 10px;
+  text-decoration: line-through;
+  font-size: 14px;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: hsl(158, 36%, 37%);
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px auto;
+  padding: 10px 20px 10px 20px;
+}
+
+.btn:hover {
+  background: hsl(158, 36%, 37%);
+  background-image: -webkit-linear-gradient(top, hsl(158, 36%, 37%), #085c12);
+  background-image: -moz-linear-gradient(top, hsl(158, 36%, 37%), #085c12);
+  background-image: -ms-linear-gradient(top, hsl(158, 36%, 37%), #085c12);
+  background-image: -o-linear-gradient(top, hsl(158, 36%, 37%), #085c12);
+  background-image: linear-gradient(to bottom, hsl(158, 36%, 37%), #085c12);
+  text-decoration: none;
+}
+
+.attribution {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.attribution a {
+  color: #000000;
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
