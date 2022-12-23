@@ -46,6 +46,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Amouri Amine Abdeldjalil](https://github.com/DJALLIL05)
+- Git Hub - [Amouri Amine Abdeldjalil](https://github.com/DJALLIL05)
 - Frontend Mentor - [@DJALLIL05](https://www.frontendmentor.io/profile/DJALLIL05)
 - Twitter - [@AmouriAbdeldj](https://www.twitter.com/AmouriAbdeldj)
