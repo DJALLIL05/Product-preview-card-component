@@ -29,8 +29,8 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 
 ### Links
-
-- Live Site URL: [live site URL here](https://djallil05.github.io/Product-preview-card-component/#)
+- Solution URL: [Solution for product-preview-card-component](https://www.frontendmentor.io/solutions/product-preview-card-component-fwe_fw2SIO)
+- Live Site URL: [product-preview-card-component](https://djallil05.github.io/Product-preview-card-component/#)
 
 ## My process
 
